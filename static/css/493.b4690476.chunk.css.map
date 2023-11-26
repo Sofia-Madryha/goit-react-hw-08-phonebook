@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/493.b4690476.chunk.css","mappings":"AAAA,2BACE,YAAa,CACb,qBAAsB,CACtB,eACF","sources":["pages/Contacts.module.css"],"sourcesContent":[".container {\n  display: flex;\n  flex-direction: column;\n  margin-top: 50px ;\n}\n"],"names":[],"sourceRoot":""}
