@@ -55,7 +55,7 @@ export const ContactForm = () => {
         <TextField
           fullWidth
           id="standard-basic"
-          label="Standard"
+          label="Name"
           variant="standard"
           name="name"
           type="text"
